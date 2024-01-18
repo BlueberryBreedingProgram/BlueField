@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "528720101330",
+    "project_id": "berrymaster-c0093",
+    "storage_bucket": "berrymaster-c0093.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528720101330:android:286def17b8971b2e2ed20b",
+        "android_client_info": {
+          "package_name": "com.bbp.blue_field_barcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528720101330-cqoeij53r8jkvoal65ctckjrmgr0v594.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIxI_VHrNKpzKrbgF4WL6kaNf35ahs8PM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528720101330-cqoeij53r8jkvoal65ctckjrmgr0v594.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
