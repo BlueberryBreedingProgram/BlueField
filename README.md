@@ -1,6 +1,12 @@
-# blue_field_barcode
+# BlueField
 
-Allows For Barcode Assining and Mass Collection in the field.
+Field Android App for capturing sample data via barcodes and entering mass.
+
+Part of a suite of apps that includes:
+- BlueField
+- BlueLab FQ 
+- BlueScore
+- BlueWeb 
 
 ## Getting Started
 
